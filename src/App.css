@@ -1,0 +1,17 @@
+
+
+.jumbotron{
+  background-image: linear-gradient(to right,#00F260,#0575E6);
+  font-family: 'Potta One', cursive;
+  padding:50px 0;
+  text-align: center;
+}
+.icon{
+  font-size: 100px;
+}
+.card{
+  padding-top: 30px;
+  color:black;
+  font-weight: bold;
+  border-radius: 1.5rem;
+}
